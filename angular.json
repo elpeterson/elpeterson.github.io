@@ -27,13 +27,10 @@
               "src/assets"
             ],
             "styles": [
-              "./node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/assets/sass/styles.scss"
             ],
             "stylePreprocessorOptions": {
-              "includePaths": [
-                "./node_modules/bootstrap/scss"
-              ]
+              "includePaths": []
             },
             "scripts": []
           },
